@@ -74,3 +74,5 @@ Retrieves and expands Azure RBAC role assignments for all users and groups acros
 ---
 
 ### Get_users_ManagementGroups
+## License
+This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
